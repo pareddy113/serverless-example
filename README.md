@@ -1,2 +1,1 @@
-# serverless-example
-Lambda deployment using serverless
+my project
